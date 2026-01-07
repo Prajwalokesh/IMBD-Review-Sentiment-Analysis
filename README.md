@@ -16,4 +16,3 @@ It uses an RNN deep learning model trained on the IMDb dataset to perform real-t
 - TensorFlow / Keras
 - NLTK
 - Scikit-learn
-- Pandas, NumPy
