@@ -3,7 +3,7 @@
 This project is a web-based sentiment analysis application that classifies IMDb movie reviews as **Positive** or **Negative** using deep learning and NLP techniques.
 
 ### 🚀 Project Highlights
-- Built a **Recurrent Neural Network (RNN)** model trained on the IMDb movie review dataset.
+- Built a **Simple Recurrent Neural Network (RNN)** model trained on the IMDb movie review dataset.
 - Implemented **Natural Language Processing (NLP)** techniques for text preprocessing and sentiment classification.
 - Developed an interactive **Streamlit web application** for real-time user input and prediction.
 - Saved and loaded the trained model using **Keras (.h5 format)** for efficient inference.
